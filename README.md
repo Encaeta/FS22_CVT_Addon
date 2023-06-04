@@ -1,18 +1,12 @@
-# FS22_CVT_Addon
+# CVT-Addon (FS22)
 
 ![CVTaddon_github](https://user-images.githubusercontent.com/4678246/214910194-35925097-47f7-4b22-ba34-4a7e1f6e73b5.png)
 
-https://discord.gg/mfergkwhDu 
 
 Known issues:
 - multiplayer* is in sync. but the driving feeling have to be readjust - I'm on it.
 
 *A very big thanks goes to Glowin, for fixing the mp sync issue.
-
-LessMotorBrakeforce to new Edition CVT_Addon 
-by SbSh(Modastian) and Frvetz
-
-also in credits: modelleicher
 
 
 This script reduces the engine brake effect depending on the setting
