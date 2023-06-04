@@ -21,7 +21,6 @@ There is also a button with which can be converted into 5 steps. The brake ramp 
 Make the engine braking effect support from the set brake ramp when the driving pedal or driving joy stick is released.
 This can be helpful for maneuvering or front loading work - or simply with Stop & Go road trips.
 Manually switched gears are not influenced.
-My script "LessMotorBrakeforce" is no longer required with this new edition, or should not be used together.
 
 
 Change list / changelog
@@ -65,7 +64,6 @@ Hierzu gibt es auch wieder eine Taste mit der in 5 Stufen umgeshaltet werden kan
 bewirken, daß beim loslassen des Fahrpedals oder Fahrjoysticks die Motorbremswirkung ab der eingestellten Bremsrampe unterstützt.
 Dies kann hilfreich bei Rangier- oder Frontladerarbeiten sein - oder einfach bei Stop&Go Straßenfahrten.
 Manuell geschaltete Getriebe werden nicht beeinflusst.
-Mein Skript "Verringerte Motorbremswirkung" wird mit dieser Neuauflage nicht mehr benötigt, bzw. sollte nicht zusammen genutzt werden.
 
 
 Änderungsliste / Changelog
@@ -90,5 +88,4 @@ Version 1.0.0.0	- Neuauflage mit CVT Addon
 - Verhalten bei Variogetriebe geändert
 
 
-[![Watch the video](https://img.youtube.com/vi/rdKwO8u5Zd0/maxresdefault.jpg)](https://www.youtube.com/watch?v=rdKwO8u5Zd0)
 
